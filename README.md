@@ -19,7 +19,7 @@ Real-time monitoring dashboard for AWS using Grafana and CloudWatch
 
 python scripts/stress_test.py  # Simulate high CPU  
 
-*Example: AWS dashboard in Grafana.
+*Example: Cloud Infrastructure Monitoring Dashboard 
 ![1](https://github.com/user-attachments/assets/0f01c40a-4fc6-4e0b-afb5-18a2802f08ec)
 
 ### Cloud Infrastructure Monitoring Dashboard | [GitHub](https://github.com/hardikc/Cloud-Monitoring-Dashboard)  
